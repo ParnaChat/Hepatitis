@@ -1,1 +1,2 @@
 # Hepatitis
+Early diagnosis can prevent health problems that result in the prevention of viral transmission and especially for diseases such as Hepatitis C for which there is no effective vaccine. Large populations unaware of the risk of infection often fail to meet the ideal treatment time, resulting in a poor prognosis. To cope with this, a prediction model can be used to accurately identify populations at high risk of Hepatitis infection that should take timely and appropriate medical treatment measures.
